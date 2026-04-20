@@ -1,1 +1,2 @@
 # Codealpha-task-gallary-
+gallary
